@@ -19,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|solutionrelative:company\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|c:\\users\\danip\\desktop\\\u0437\u0430\u0432\u0442\u0440\u0430 \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\company\\company\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|solutionrelative:company\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|c:\\users\\danip\\desktop\\\u0437\u0430\u0432\u0442\u0440\u0430 \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\company\\company\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|solutionrelative:company\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|c:\\users\\danip\\desktop\\\u0437\u0430\u0432\u0442\u0440\u0430 \u044D\u043A\u0437\u0430\u043C\u0435\u043D\\company\\company\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4C3291-F5A0-49EA-ACDB-41FF171C6B2A}|Company\\Company.csproj|solutionrelative:company\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Company\\Models\\Post.cs",
               "ToolTip": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\Models\\Post.cs",
               "RelativeToolTip": "Company\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T16:59:18.378Z",
               "EditorCaption": ""
@@ -57,27 +57,27 @@
               "RelativeDocumentMoniker": "Company\\Models\\Status.cs",
               "ToolTip": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\Models\\Status.cs",
               "RelativeToolTip": "Company\\Models\\Status.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T16:59:06.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Company\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\Models\\Employee.cs*",
-              "RelativeToolTip": "Company\\Models\\Employee.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\Models\\Employee.cs",
+              "RelativeToolTip": "Company\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T16:58:55.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Company\\Data\\AppDbContext.cs",
@@ -85,8 +85,7 @@
               "RelativeToolTip": "Company\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T16:56:18.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T16:56:18.731Z"
             },
             {
               "$type": "Document",
@@ -108,7 +107,7 @@
               "RelativeDocumentMoniker": "Company\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\danip\\Desktop\\\u0417\u0410\u0412\u0422\u0420\u0410 \u042D\u041A\u0417\u0410\u041C\u0415\u041D\\Company\\Company\\MainWindow.xaml.cs*",
               "RelativeToolTip": "Company\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T15:49:30.771Z",
               "EditorCaption": ""

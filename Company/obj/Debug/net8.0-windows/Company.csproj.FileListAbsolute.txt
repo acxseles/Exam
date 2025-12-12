@@ -101,3 +101,4 @@ C:\Users\danip\Desktop\ЗАВТРА ЭКЗАМЕН\Company\Company\obj\Debug\net
 C:\Users\danip\Desktop\ЗАВТРА ЭКЗАМЕН\Company\Company\obj\Debug\net8.0-windows\Company.pdb
 C:\Users\danip\Desktop\ЗАВТРА ЭКЗАМЕН\Company\Company\obj\Debug\net8.0-windows\Company.genruntimeconfig.cache
 C:\Users\danip\Desktop\ЗАВТРА ЭКЗАМЕН\Company\Company\obj\Debug\net8.0-windows\ref\Company.dll
+C:\Users\danip\Desktop\ЗАВТРА ЭКЗАМЕН\Company\Company\obj\Debug\net8.0-windows\Company.sourcelink.json

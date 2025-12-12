@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
     <StackPanel>
-        <TextBox Margin="0,20,0,0" Width="400"/>
+        <TextBox x:Name="SearchBox" Margin="0,20,0,0" Width="400"/>
         <Button x:Name="SearchButton" Height="20" Width="300" Content="Поиск" Click="SearchButton_Click"/>
-        <Button Height="20" Width="300" Content="Сбосить"/>
+        <Button x:Name="ResetButtun" Height="20" Width="300" Content="Сбосить" Click="ResetButtun_Click"/>
         <DataGrid x:Name="ItemsDataGrid" Margin="0,30,0,0" ItemsSource="{Binding Employee}" AutoGenerateColumns="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Табельный номер" Binding="{Binding Id}"/>
